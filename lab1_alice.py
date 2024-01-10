@@ -30,7 +30,7 @@ while x < 10:
     print(x)
 
 #---------------------------------------------------------
-# Exercise 2 - Fix the semantic error below, to make it calculate the area of the rectangle correctly.
+# Exercise 2 (40 marks) - Fix the semantic error below, to make it calculate the area of the rectangle correctly.
  
 # A regular comment usually starts with a #. 
 # Regular comments are used to explain parts of the code for developers reading it.
@@ -47,7 +47,7 @@ print(f"I think the area of the rectangle is: {side_1 + side_2}.") # This line p
 
 
 #---------------------------------------------------------
-# Exercise 3 - Write a letter to your instructor
+# Exercise 3 (50 marks) - Write a letter to your instructor
 #---------------------------------------------------------
 
 my_instructor_name = "COMP115 class 😄" # Change to "Alice 😄"
@@ -81,6 +81,7 @@ Cheers,
 """)
 
 #---------------------------------------------------------
+# Submission (10 marks):
 # After you finish this lab, please:
 # 1. rename the lab file as lab1_{your_first_name}.py, e.g., lab1_alice.py would be my lab1 file name.
 # 2. upload your lab1 python file to your GitHub "comp115" repository.
