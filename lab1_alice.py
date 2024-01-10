@@ -7,7 +7,8 @@ Your Name 😍:
 Lab Due: 11:00am on Jan. 12
 
 Objective:
-0. Create a GitHub account and a repository named comp115, and upload your finished lab1_{your_first_name}.py in comp115.
+0. Create a GitHub account and a repository named comp115 
+(you can follow this guide: https://github.com/COMP115-Bravo/comp115/blob/main/Create%20a%20GitHub%20account%20and%20repository.pdf).
 1. Practice how to run Python code in VScode or your IDE
 2. Understand what is a comment, and what is a docstring in Python 
 (this part is a docstring, which is a type of comments, providing info about modules, functions, classes, or methods)
@@ -82,7 +83,7 @@ Cheers,
 #---------------------------------------------------------
 # After you finish this lab, please:
 # 1. rename the lab file as lab1_{your_first_name}.py, e.g., lab1_alice.py would be my lab1 file name.
-# 2. upload your lab1 file to your "labs" folder of GitHub "comp115" repository.
+# 2. upload your lab1 python file to your GitHub "comp115" repository.
 # 3. follow this link "https://comp115-bravo.github.io/" and fill the blanks there.
 # Great job. Congratulations on finishing your lab1!
 #---------------------------------------------------------
