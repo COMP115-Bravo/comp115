@@ -67,7 +67,7 @@ def dna_to_code(dna):
     """
     coded = ''
     # Hint: use the accumulator pattern to process each character of
-    # the input dna string.  Convert each character to it's
+    # the input dna string.  Convert each character to its
     # coded counterpart using dna_to_code_dict
     pass
 
