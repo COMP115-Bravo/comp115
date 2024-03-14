@@ -1,0 +1,100 @@
+tconst	titleType	primaryTitle	originalTitle	isAdult	startYear	endYear	runtimeMinutes	genres
+tt0000001	short	Carmencita	Carmencita	1	1894	\N	1	Documentary,Short
+tt0000002	short	Le clown et ses chiens	Le clown et ses chiens	0	1892	\N	5	Animation,Short
+tt0000003	short	Pauvre Pierrot	Pauvre Pierrot	0	1892	\N	4	Animation,Comedy,Romance
+tt0000004	short	Un bon bock	Un bon bock	0	1892	\N	12	Animation,Short
+tt0000005	short	Blacksmith Scene	Blacksmith Scene	0	1893	\N	1	Comedy,Short
+tt0000006	short	Chinese Opium Den	Chinese Opium Den	0	1894	\N	1	Short
+tt0000007	short	Corbett and Courtney Before the Kinetograph	Corbett and Courtney Before the Kinetograph	0	1894	\N	1	Short,Sport
+tt0000008	short	Edison Kinetoscopic Record of a Sneeze	Edison Kinetoscopic Record of a Sneeze	0	1894	\N	1	Documentary,Short
+tt0000009	movie	Miss Jerry	Miss Jerry	0	1894	\N	45	Romance
+tt0000010	short	Leaving the Factory	La sortie de l'usine Lumière à Lyon	0	1895	\N	1	Documentary,Short
+tt0000011	short	Akrobatisches Potpourri	Akrobatisches Potpourri	0	1895	\N	1	Documentary,Short
+tt0000012	short	The Arrival of a Train	L'arrivée d'un train à La Ciotat	0	1896	\N	1	Documentary,Short
+tt0000013	short	The Photographical Congress Arrives in Lyon	Le débarquement du congrès de photographie à Lyon	0	1895	\N	1	Documentary,Short
+tt0000014	short	The Waterer Watered	L'arroseur arrosé	0	1895	\N	1	Comedy,Short
+tt0000015	short	Autour d'une cabine	Autour d'une cabine	0	1894	\N	2	Animation,Short
+tt0000016	short	Boat Leaving the Port	Barque sortant du port	0	1895	\N	1	Documentary,Short
+tt0000017	short	Italienischer Bauerntanz	Italienischer Bauerntanz	0	1895	\N	1	Documentary,Short
+tt0000018	short	Das boxende Känguruh	Das boxende Känguruh	0	1895	\N	1	Short
+tt0000019	short	The Clown Barber	The Clown Barber	0	1898	\N	\N	Comedy,Short
+tt0000020	short	The Derby 1895	The Derby 1895	0	1895	\N	1	Documentary,Short,Sport
+tt0000022	short	Blacksmith Scene	Les forgerons	0	1895	\N	1	Documentary,Short
+tt0000023	short	The Sea	Baignade en mer	0	1895	\N	1	Documentary,Short
+tt0000024	short	Opening of the Kiel Canal	Opening of the Kiel Canal	0	1895	\N	\N	News,Short
+tt0000025	short	The Oxford and Cambridge University Boat Race	The Oxford and Cambridge University Boat Race	0	1896	\N	\N	News,Short,Sport
+tt0000026	short	The Messers. Lumière at Cards	Partie d'écarté	0	1896	\N	1	Documentary,Short
+tt0000027	short	Cordeliers' Square in Lyon	Place des Cordeliers à Lyon	0	1895	\N	1	Documentary,Short
+tt0000028	short	Fishing for Goldfish	La pêche aux poissons rouges	0	1895	\N	1	Documentary,Short
+tt0000029	short	Baby's Meal	Repas de bébé	0	1895	\N	1	Documentary,Short
+tt0000030	short	Rough Sea at Dover	Rough Sea at Dover	0	1895	\N	1	Documentary,Short
+tt0000031	short	Jumping the Blanket	Le saut à la couverture	0	1895	\N	1	Documentary,Short
+tt0000032	short	Die Serpentintänzerin	Die Serpentintänzerin	0	1895	\N	1	Short
+tt0000033	short	Horse Trick Riders	La voltige	0	1895	\N	1	Comedy,Documentary,Short
+tt0000034	short	Arrivée d'un train gare de Vincennes	Arrivée d'un train gare de Vincennes	0	1896	\N	1	Documentary,Short
+tt0000035	short	Watering the Flowers	L'arroseur	0	1896	\N	1	Comedy,Short
+tt0000036	short	Awakening of Rip	Awakening of Rip	0	1896	\N	1	Drama,Short
+tt0000037	short	Sea Bathing	Baignade en mer	0	1896	\N	1	Short
+tt0000038	short	The Ball Game	The Ball Game	0	1898	\N	\N	Documentary,Short,Sport
+tt0000039	short	Barnet Horse Fair	Barnet Horse Fair	0	1896	\N	\N	Short
+tt0000040	short	Barque sortant du port de Trouville	Barque sortant du port de Trouville	0	1896	\N	\N	Documentary,Short
+tt0000041	short	Bataille de neige	Bataille de neige	0	1897	\N	1	Comedy,Documentary,Short
+tt0000042	short	Bateau-mouche sur la Seine	Bateau-mouche sur la Seine	0	1896	\N	\N	Documentary,Short
+tt0000043	short	Batteuse à vapeur	Batteuse à vapeur	0	1896	\N	\N	Documentary,Short
+tt0000044	short	Le bivouac	Le bivouac	0	1896	\N	1	Short
+tt0000045	short	Les blanchisseuses	Les blanchisseuses	0	1896	\N	\N	Short
+tt0000046	short	Bois de Boulogne	Bois de Boulogne	0	1896	\N	\N	Documentary,Short
+tt0000047	short	Boulevard des Italiens	Boulevard des Italiens	0	1896	\N	\N	Documentary,Short
+tt0000048	short	The Boxing Kangaroo	The Boxing Kangaroo	0	1896	\N	\N	Short
+tt0000049	short	Boxing Match; or, Glove Contest	Boxing Match; or, Glove Contest	0	1896	\N	\N	Short,Sport
+tt0000050	short	Bébé et fillettes	Bébé et fillettes	0	1896	\N	\N	Documentary,Short
+tt0000051	short	The Bohemian Encampment	Campement de bohémiens	0	1896	\N	\N	Documentary,Short
+tt0000052	short	Ruraux au galop	Ruraux au galop	0	1896	\N	1	Documentary,Short
+tt0000053	short	A Chegada do Comboio Inaugural à Estação Central do Porto	A Chegada do Comboio Inaugural à Estação Central do Porto	0	1897	\N	\N	Documentary,Short
+tt0000054	short	A Merry-Go-Round	Les chevaux de bois	0	1896	\N	\N	Short
+tt0000055	short	Le chiffonnier	Le chiffonnier	0	1896	\N	\N	Short
+tt0000056	short	Uma Corrida de Touros no Campo Pequeno	Uma Corrida de Touros no Campo Pequeno	0	1896	\N	\N	Short
+tt0000057	short	Cortège de tzar allant à Versailles	Cortège de tzar allant à Versailles	0	1896	\N	\N	Documentary,Short
+tt0000058	short	Cortège de tzar au Bois de Boulogne	Cortège de tzar au Bois de Boulogne	0	1896	\N	\N	Documentary,Short
+tt0000059	short	Coronation of a Village Maiden	Couronnement de la rosière	0	1896	\N	\N	Short
+tt0000060	short	Dancing Darkies	Dancing Darkies	0	1896	\N	\N	Documentary,Short
+tt0000061	short	Dancing Girls	Dancing Girls	0	1896	\N	\N	Short
+tt0000062	short	Danse serpentine	Danse serpentine	0	1896	\N	1	Short
+tt0000063	short	Dessinateur express	Dessinateur express	0	1896	\N	\N	Short
+tt0000064	short	Dessinateur: Chamberlain	Dessinateur: Chamberlain	0	1896	\N	\N	Short
+tt0000065	short	Dessinateur: Reine Victoria	Dessinateur: Reine Victoria	0	1896	\N	\N	Short
+tt0000066	short	Dessinateur: Von Bismark	Dessinateur: Von Bismark	0	1896	\N	\N	Short
+tt0000067	short	Conjurer Making Ten Hats in Sixty Seconds	Dix chapeaux en 60 secondes	0	1896	\N	\N	Fantasy,Short
+tt0000068	short	Unloading the Boat	Déchargement de bateaux	0	1896	\N	\N	Documentary,Short
+tt0000069	short	Post No Bills	Défense d'afficher	0	1896	\N	1	Comedy,Short
+tt0000070	short	Demolition of a Wall	Démolition d'un mur	0	1896	\N	1	Documentary,Short
+tt0000071	short	Automobiles Starting a Race	Départ des automobiles	0	1896	\N	\N	Short,Sport
+tt0000072	short	Officers of French Army Leaving Service	Départ des officiers	0	1896	\N	\N	Short
+tt0000073	short	Effets de mer sur les rochers	Effets de mer sur les rochers	0	1896	\N	\N	Documentary,Short
+tt0000074	short	Enfants jouant sur la plage	Enfants jouant sur la plage	0	1896	\N	\N	Documentary,Short
+tt0000075	short	The Conjuring of a Woman at the House of Robert Houdin	Escamotage d'une dame au théâtre Robert Houdin	0	1896	\N	1	Horror,Short
+tt0000076	short	Exit of Rip and the Dwarf	Exit of Rip and the Dwarf	0	1896	\N	1	Drama,Short
+tt0000077	short	Le fakir, mystère indien	Le fakir, mystère indien	0	1896	\N	\N	Short
+tt0000078	short	Feira de Gado na Corujeira	Feira de Gado na Corujeira	0	1896	\N	1	Documentary,Short
+tt0000079	short	La gare Saint-Lazare	La gare Saint-Lazare	0	1896	\N	\N	Documentary,Short
+tt0000080	short	Grandes manoeuvres	Grandes manoeuvres	0	1896	\N	\N	Documentary,Short
+tt0000081	short	Towing a Boat on the River	Les haleurs de bateaux	0	1896	\N	\N	Documentary,Short
+tt0000082	short	A Hard Wash	A Hard Wash	0	1896	\N	\N	Comedy,Short
+tt0000083	short	Les indiscrets	Les indiscrets	0	1896	\N	\N	Short
+tt0000084	short	Les ivrognes	Les ivrognes	0	1896	\N	\N	Short
+tt0000085	short	Gardener Burning Weeds	Jardinier brûlant des herbes	0	1896	\N	\N	Short
+tt0000086	short	Beach and Pier at Trouville, 1st part	Jetée et plage de Trouville (1er partie)	0	1896	\N	\N	Documentary,Short
+tt0000087	short	Beach and Pier at Trouville, 2nd part	Jetée et plage de Trouville (2e partie)	0	1896	\N	\N	Documentary,Short
+tt0000088	short	Market Day	Jour de marché à Trouville	0	1896	\N	\N	Documentary,Short
+tt0000089	short	Leaving Jerusalem by Railway	Départ de Jérusalem en chemin de fer	0	1897	\N	1	Documentary,Short
+tt0000090	short	Libération des territoriaux	Libération des territoriaux	0	1896	\N	\N	Documentary,Short
+tt0000091	short	The House of the Devil	Le manoir du diable	0	1896	\N	3	Horror,Short
+tt0000092	short	Marée montante sur Brise-Larmes	Marée montante sur Brise-Larmes	0	1896	\N	\N	Documentary,Short
+tt0000093	short	Melbourne	Melbourne	0	1896	\N	\N	Documentary,Short
+tt0000094	short	Miss de Vere	Miss de Vere	0	1896	\N	\N	Short
+tt0000095	short	The Mysterious Paper	Le papier protée	0	1896	\N	\N	Short
+tt0000096	short	Place Saint-Augustin	Place Saint-Augustin	0	1896	\N	\N	Documentary,Short
+tt0000097	short	Place de l'Opéra, First View	Place de l'Opéra, 1er aspect	0	1896	\N	\N	Documentary,Short
+tt0000098	short	Place de l'Opéra, Second View	Place de l'Opéra, 2e aspect	0	1896	\N	\N	Documentary,Short
+tt0000099	short	Place de la Bastille	Place de la Bastille	1	1896	\N	\N	Documentary,Short
+tt0000100	short	Place de la Concorde	Place de la Concorde	1	1896	\N	\N	Documentary,Short
